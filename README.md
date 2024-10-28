@@ -1,2 +1,2 @@
-# Projects
-Hi! This is my data analysis projects for data analyst job. 
+# Portfolio
+Hi! This is my data analysis portfolio for data analyst job. 
